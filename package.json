@@ -1,0 +1,22 @@
+{
+  "name": "lodash-flow-bug",
+  "version": "0.1.0",
+  "description": "Demonstrates a bug with lodash's `flow` function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjohn465/lodash-flow-bug.git"
+  },
+  "author": "Brandon Johnson <bjohn465+gihub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjohn465/lodash-flow-bug/issues"
+  },
+  "homepage": "https://github.com/bjohn465/lodash-flow-bug",
+  "dependencies": {
+    "lodash": "3.8.0"
+  }
+}
